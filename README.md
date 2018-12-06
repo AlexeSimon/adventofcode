@@ -20,6 +20,7 @@ pip install requests
 ** Download init.py and put it into the folder.
 ** Open init.py in a text editor and put your session into **USER_SESSION_ID** (see below).
 ** Change other user parameters in the init.py as desired (see below).
+** Change the date of the last advent of code year and day if needed.
 ** Run init.py from within the folder with
 ```shell
 python init.py
@@ -38,7 +39,7 @@ author = ""                # Name automatically put in the code templates.
 OVERWRITE = False          # If you really need to download the whole thing again, set this to true. As the creator said, AoC is fragile; please be gentle. Statements and Inputs do not change. This will not overwrite codes.
 
 # DATE SPECIFIC PARAMETERS
-date = "?"                       # Date automatically put in the code templates.
+date = "December 2018"           # Date automatically put in the code templates.
 last_advent_of_code_year = 2018  # The setup will download all advent of code data up until that date included
 last_advent_of_code_day = 6      # If the year isn't finished, the setup will download days up until that day included for the last year
 ```
@@ -52,9 +53,12 @@ Other parameters are self explanatory.
 
 ## Running this repo code
 Simply download the wanted solution folders.
-Set current directory to wanted solution folder.
-Run solution with python:
+Script can be run from a parent directory:
+```shell
+python 2018/2/code.py
 ```
+Or set current directory to wanted solution folder:
+```shell
 cd 2018/2
 python code.py
 ```

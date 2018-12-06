@@ -1,8 +1,8 @@
 # Advent of code Year 2018 Day 1 solution
 # Author = Alexe Simon
-# Date = 06/12/2018
+# Date = December 2018
 
-with open("input.txt", 'r') as input_file:
+with open((__file__.rstrip("code.py")+"input.txt"), 'r') as input_file:
     input = input_file.read()
 
 frequency = 0

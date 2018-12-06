@@ -11,11 +11,11 @@ DOWNLOAD_STATEMENTS = True # Set to false to not download statements. Note that 
 DOWNLOAD_INPUTS = True     # Set to false to not download inputs. Note that if the USER_SESSION_ID is wrong or left empty, inputs will not be downloaded.
 MAKE_CODE_TEMPLATE = True  # Set to false to not make code templates. Note that even if OVERWRITE is set to True, it will never overwrite codes.
 MAKE_URL = True            # Set to false to not create a direct url link in the folder.
-author = ""                # Name automatically put in the code templates.
+author = "?"               # Name automatically put in the code templates.
 OVERWRITE = False          # If you really need to download the whole thing again, set this to true. As the creator said, AoC is fragile; please be gentle. Statements and Inputs do not change. This will not overwrite codes.
 
 # DATE SPECIFIC PARAMETERS
-date = "?"                       # Date automatically put in the code templates.
+date = "December 2018"           # Date automatically put in the code templates.
 last_advent_of_code_year = 2018  # The setup will download all advent of code data up until that date included
 last_advent_of_code_day = 6      # If the year isn't finished, the setup will download days up until that day included for the last year
 
@@ -29,7 +29,7 @@ except ImportError:
     sys.exit("You need requests module. Install it by running pip install requests.")
 
 # Code
-MAX_RECONNECT_ATTEMPT = 5
+MAX_RECONNECT_ATTEMPT = 2
 years = range(2015, last_advent_of_code_year+1)
 days = range(1,26)
 link = "https://adventofcode.com/" # ex use : https://adventofcode.com/2017/day/19/input
@@ -50,7 +50,7 @@ for y in years:
         day_pos = year_pos+"/"+str(d)
         if MAKE_CODE_TEMPLATE and not os.path.exists(day_pos+"/code.py"):
             code = open(day_pos+"/code.py", "w+")
-            code.write("# Advent of code Year "+str(y)+" Day "+str(d)+" solution\n# Author = "+author+"\n# Date = "+date+"\n\nwith open(\"input.txt\", 'r') as input_file:\n    input = input_file.read()\n\n")
+            code.write("# Advent of code Year "+str(y)+" Day "+str(d)+" solution\n# Author = "+author+"\n# Date = "+date+"\n\nwith open((__file__.rstrip(\"code.py\")+\"input.txt\"), 'r') as input_file:\n    input = input_file.read()\n\n\n\nprint(\"Part One : \"+ str(None))\n\n\n\nprint(\"Part Two : \"+ str(None))")
             code.close()
         if DOWNLOAD_INPUTS and (not os.path.exists(day_pos+"/input.txt") or OVERWRITE)and USER_SESSION_ID != "":
             done = False
@@ -69,10 +69,12 @@ for y in years:
                 except requests.exceptions.RequestException:
                     error_count += 1
                     if error_count > MAX_RECONNECT_ATTEMPT:
-                        print("        Error while requesting input from server. Request probably timed out. Giving up.")
+                        print("        Giving up.")
                         done = True
-                    else:
+                    else if error_count == 0:
                         print("        Error while requesting input from server. Request probably timed out. Trying again.")
+                    else:
+                        print("        Trying again.")
                 except Exception as e:
                     print("        Non handled error while requesting input from server. " + str(e))
                     done = True
