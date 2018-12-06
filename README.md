@@ -17,12 +17,12 @@ pip install requests
 ```
 ### Running init.py
 To run init.py, follow these steps:
-** Create a new folder.
-** Download init.py and put it into the folder.
-** Open init.py in a text editor and put your session into **USER_SESSION_ID** (see below).
-** Change other user parameters in the init.py as desired (see below).
-** Change the date of the last advent of code year and day if needed.
-** Run init.py from within the folder with
+* Create a new folder.
+* Download init.py and put it into the folder.
+* Open init.py in a text editor and put your session into **USER_SESSION_ID** (see below).
+* Change other user parameters in the init.py as desired (see below).
+* Change the date of the last advent of code year and day if needed.
+* Run init.py from within the folder with
 ```shell
 python init.py
 ```
@@ -47,10 +47,10 @@ last_advent_of_code_day = 6         # If the year isn't finished, the setup will
 ```
 The only important parameter is **USER_SESSION_ID**, which has to be set correctly for the script to download your personnal problems input.
 To recover your session:
-** Got to [AdventOfCode](https://adventofcode.com/).
-** Log in by any means (GitHub, Google, ...).
-** Check for a cookie named **session**. This step depends on the browser used. It can be done through network inspection or, in advanced browser like Chrome, by simply clicking on the **View site information** button directly left of the url (shown as a padlock), then clicking **Cookies**.
-** Copy this cookie content and paste it in init.py in between the ". It might be automatically formated upon being copied and look different, do not worry.
+* Go to [AdventOfCode](https://adventofcode.com/).
+* Log in by any means (GitHub, Google, ...).
+* Check for a cookie named **session**. This step depends on the browser used. It can be done through network inspection or, in advanced browser like Chrome, by simply clicking on the **View site information** button directly left of the url (shown as a padlock), then clicking **Cookies**.
+* Copy this cookie content and paste it in init.py in between the ". It might be automatically formated upon being copied and look different, do not worry.
 Other parameters are self explanatory.
 
 ## Running this repo code
