@@ -5,15 +5,15 @@
 with open((__file__.rstrip("code.py")+"input.txt"), 'r') as input_file:
     input = input_file.read()
 
-frequency = 0
 input_as_int = [int(line) for line in input.splitlines()]
 size = len(input_as_int)
+frequency = 0
 reached = {}
 found = False
 
 for val in input_as_int:
     frequency += val
-    if not found and frequency in reached:
+    if frequency in reached:
         reached_twice = frequency
         found = True
     reached[frequency] = True
@@ -22,7 +22,7 @@ print("Part One :" + str(frequency))
 i = 0
 while not found:
     frequency += input_as_int[i]
-    if not found and frequency in reached:
+    if frequency in reached:
         reached_twice = frequency
         found = True
     reached[frequency] = True
