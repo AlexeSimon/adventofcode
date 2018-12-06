@@ -16,6 +16,7 @@ To install the module requests, use
 pip install requests
 ```
 ### Running init.py
+To run init.py, follow these steps:
 ** Create a new folder.
 ** Download init.py and put it into the folder.
 ** Open init.py in a text editor and put your session into **USER_SESSION_ID** (see below).
@@ -39,9 +40,10 @@ author = ""                # Name automatically put in the code templates.
 OVERWRITE = False          # If you really need to download the whole thing again, set this to true. As the creator said, AoC is fragile; please be gentle. Statements and Inputs do not change. This will not overwrite codes.
 
 # DATE SPECIFIC PARAMETERS
-date = "December 2018"           # Date automatically put in the code templates.
-last_advent_of_code_year = 2018  # The setup will download all advent of code data up until that date included
-last_advent_of_code_day = 6      # If the year isn't finished, the setup will download days up until that day included for the last year
+date = "December 2018"              # Date automatically put in the code templates.
+starting_advent_of_code_year = 2017 # You can go as early as 2015.
+last_advent_of_code_year = 2018     # The setup will download all advent of code data up until that date included
+last_advent_of_code_day = 6         # If the year isn't finished, the setup will download days up until that day included for the last year
 ```
 The only important parameter is **USER_SESSION_ID**, which has to be set correctly for the script to download your personnal problems input.
 To recover your session:

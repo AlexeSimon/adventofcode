@@ -15,9 +15,10 @@ author = "?"               # Name automatically put in the code templates.
 OVERWRITE = False          # If you really need to download the whole thing again, set this to true. As the creator said, AoC is fragile; please be gentle. Statements and Inputs do not change. This will not overwrite codes.
 
 # DATE SPECIFIC PARAMETERS
-date = "December 2018"           # Date automatically put in the code templates.
-last_advent_of_code_year = 2018  # The setup will download all advent of code data up until that date included
-last_advent_of_code_day = 6      # If the year isn't finished, the setup will download days up until that day included for the last year
+date = "December 2018"              # Date automatically put in the code templates.
+starting_advent_of_code_year = 2017 # You can go as early as 2015.
+last_advent_of_code_year = 2018     # The setup will download all advent of code data up until that date included
+last_advent_of_code_day = 6         # If the year isn't finished, the setup will download days up until that day included for the last year
 
 # Imports
 import os
@@ -30,7 +31,7 @@ except ImportError:
 
 # Code
 MAX_RECONNECT_ATTEMPT = 2
-years = range(2015, last_advent_of_code_year+1)
+years = range(starting_advent_of_code_year, last_advent_of_code_year+1)
 days = range(1,26)
 link = "https://adventofcode.com/" # ex use : https://adventofcode.com/2017/day/19/input
 USER_AGENT = "adventofcode_working_directories_creator"
