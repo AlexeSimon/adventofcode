@@ -18,12 +18,10 @@ OVERWRITE = False          # If you really need to download the whole thing agai
 date = "December 2018"              # Date automatically put in the code templates.
 starting_advent_of_code_year = 2017 # You can go as early as 2015.
 last_advent_of_code_year = 2018     # The setup will download all advent of code data up until that date included
-last_advent_of_code_day = 6         # If the year isn't finished, the setup will download days up until that day included for the last year
-
+last_advent_of_code_day = 7         # If the year isn't finished, the setup will download days up until that day included for the last year
 # Imports
 import os
 import datetime
-import urllib.request
 try:
     import requests
 except ImportError:
@@ -72,7 +70,7 @@ for y in years:
                     if error_count > MAX_RECONNECT_ATTEMPT:
                         print("        Giving up.")
                         done = True
-                    else if error_count == 0:
+                    elif error_count == 0:
                         print("        Error while requesting input from server. Request probably timed out. Trying again.")
                     else:
                         print("        Trying again.")
@@ -84,14 +82,17 @@ for y in years:
             error_count = 0
             while(not done):
                 try:
-                    with urllib.request.urlopen(link+str(y)+"/day/"+str(d)) as response:
-                        html = response.read().decode('utf-8')
-                        start = html.find("<article")
-                        end = html.rfind("</article>")+len("</article>")
-                        statement = open(day_pos+"/statement.html", "w+")
-                        statement.write(html[start:end])
-                        statement.close()
-                    done = True
+                    with requests.get(url=link+str(y)+"/day/"+str(d), cookies={"session": USER_SESSION_ID}, headers={"User-Agent": USER_AGENT}) as response:
+                        if response.ok:
+                            html = response.text
+                            start = html.find("<article")
+                            end = html.rfind("</article>")+len("</article>")
+                            end_success = html.rfind("</code>")+len("</code>")
+                            statement = open(day_pos+"/statement.html", "w+")
+                            statement.write(html[start:max(end, end_success)])
+                            statement.close()
+                            print(html)
+                        done = True
                 except requests.exceptions.RequestException:
                     error_count += 1
                     if error_count > MAX_RECONNECT_ATTEMPT:
