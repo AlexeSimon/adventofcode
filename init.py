@@ -91,7 +91,6 @@ for y in years:
                             statement = open(day_pos+"/statement.html", "w+")
                             statement.write(html[start:max(end, end_success)])
                             statement.close()
-                            print(html)
                         done = True
                 except requests.exceptions.RequestException:
                     error_count += 1
