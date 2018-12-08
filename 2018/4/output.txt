@@ -1,0 +1,1129 @@
+[1518- 2- 8  0: 0] 1439 started  action 0
+[1518- 2- 8  0: 6] None started  action 1
+[1518- 2- 8  0:28] None started  action 2
+[1518- 2- 8 23:57] 1439 started  action 0
+[1518- 2- 9  0:16] None started  action 1
+[1518- 2- 9  0:53] None started  action 2
+[1518- 2- 9  0:56] None started  action 1
+[1518- 2- 9  0:57] None started  action 2
+[1518- 2- 9 23:58] 1439 started  action 0
+[1518- 2-10  0:28] None started  action 1
+[1518- 2-10  0:42] None started  action 2
+[1518- 2-11  0: 1] 3323 started  action 0
+[1518- 2-11  0:21] None started  action 1
+[1518- 2-11  0:40] None started  action 2
+[1518- 2-11 23:56] 2251 started  action 0
+[1518- 2-12  0:37] None started  action 1
+[1518- 2-12  0:47] None started  action 2
+[1518- 2-12  0:55] None started  action 1
+[1518- 2-12  0:58] None started  action 2
+[1518- 2-12 23:58] 3449 started  action 0
+[1518- 2-14  0: 1] 2251 started  action 0
+[1518- 2-14  0:43] None started  action 1
+[1518- 2-14  0:50] None started  action 2
+[1518- 2-14 23:57] 1597 started  action 0
+[1518- 2-15  0:34] None started  action 1
+[1518- 2-15  0:41] None started  action 2
+[1518- 2-15 23:59] 1213 started  action 0
+[1518- 2-16  0: 8] None started  action 1
+[1518- 2-16  0:23] None started  action 2
+[1518- 2-16  0:44] None started  action 1
+[1518- 2-16  0:51] None started  action 2
+[1518- 2-16  0:56] None started  action 1
+[1518- 2-16  0:59] None started  action 2
+[1518- 2-16 23:59] 2753 started  action 0
+[1518- 2-17  0:13] None started  action 1
+[1518- 2-17  0:27] None started  action 2
+[1518- 2-17  0:38] None started  action 1
+[1518- 2-17  0:58] None started  action 2
+[1518- 2-17 23:57] 1213 started  action 0
+[1518- 2-18  0:13] None started  action 1
+[1518- 2-18  0:25] None started  action 2
+[1518- 2-18 23:51] 2753 started  action 0
+[1518- 2-19  0: 4] None started  action 1
+[1518- 2-19  0:46] None started  action 2
+[1518- 2-20  0: 0] 1999 started  action 0
+[1518- 2-20 23:57] 3323 started  action 0
+[1518- 2-21  0:38] None started  action 1
+[1518- 2-21  0:45] None started  action 2
+[1518- 2-21  0:49] None started  action 1
+[1518- 2-21  0:50] None started  action 2
+[1518- 2-21  0:54] None started  action 1
+[1518- 2-21  0:58] None started  action 2
+[1518- 2-21 23:58] 1733 started  action 0
+[1518- 2-22  0:45] None started  action 1
+[1518- 2-22  0:59] None started  action 2
+[1518- 2-22 23:59] 1439 started  action 0
+[1518- 2-23  0:30] None started  action 1
+[1518- 2-23  0:44] None started  action 2
+[1518- 2-23 23:49] 1283 started  action 0
+[1518- 2-24  0: 1] None started  action 1
+[1518- 2-24  0:19] None started  action 2
+[1518- 2-24 23:53] 2971 started  action 0
+[1518- 2-25  0: 0] None started  action 1
+[1518- 2-25  0:31] None started  action 2
+[1518- 2-25  0:41] None started  action 1
+[1518- 2-25  0:45] None started  action 2
+[1518- 2-25 23:57] 1733 started  action 0
+[1518- 2-26  0:32] None started  action 1
+[1518- 2-26  0:51] None started  action 2
+[1518- 2-26 23:58] 2251 started  action 0
+[1518- 2-27  0:30] None started  action 1
+[1518- 2-27  0:34] None started  action 2
+[1518- 2-28  0: 2] 2903 started  action 0
+[1518- 2-28  0:25] None started  action 1
+[1518- 2-28  0:28] None started  action 2
+[1518- 2-28  0:40] None started  action 1
+[1518- 2-28  0:48] None started  action 2
+[1518- 3- 1  0: 4] 2971 started  action 0
+[1518- 3- 1  0:23] None started  action 1
+[1518- 3- 1  0:55] None started  action 2
+[1518- 3- 1 23:59] 1597 started  action 0
+[1518- 3- 2  0:17] None started  action 1
+[1518- 3- 2  0:58] None started  action 2
+[1518- 3- 2 23:48] 2851 started  action 0
+[1518- 3- 3  0: 0] None started  action 1
+[1518- 3- 3  0:15] None started  action 2
+[1518- 3- 3  0:50] None started  action 1
+[1518- 3- 3  0:57] None started  action 2
+[1518- 3- 4  0: 4] 1733 started  action 0
+[1518- 3- 4  0:10] None started  action 1
+[1518- 3- 4  0:51] None started  action 2
+[1518- 3- 4  0:55] None started  action 1
+[1518- 3- 4  0:58] None started  action 2
+[1518- 3- 4 23:54] 1223 started  action 0
+[1518- 3- 5  0: 4] None started  action 1
+[1518- 3- 5  0:42] None started  action 2
+[1518- 3- 5 23:57] 3023 started  action 0
+[1518- 3- 6  0:45] None started  action 1
+[1518- 3- 6  0:56] None started  action 2
+[1518- 3- 6 23:56] 2707 started  action 0
+[1518- 3- 7  0:23] None started  action 1
+[1518- 3- 7  0:25] None started  action 2
+[1518- 3- 7 23:46] 1223 started  action 0
+[1518- 3- 8  0: 0] None started  action 1
+[1518- 3- 8  0: 5] None started  action 2
+[1518- 3- 8  0:17] None started  action 1
+[1518- 3- 8  0:29] None started  action 2
+[1518- 3- 8  0:38] None started  action 1
+[1518- 3- 8  0:45] None started  action 2
+[1518- 3- 9  0: 4] 233 started  action 0
+[1518- 3-10  0: 0] 3449 started  action 0
+[1518- 3-10 23:59] 2251 started  action 0
+[1518- 3-11  0:24] None started  action 1
+[1518- 3-11  0:51] None started  action 2
+[1518- 3-11 23:47] 1223 started  action 0
+[1518- 3-12  0: 3] None started  action 1
+[1518- 3-12  0:18] None started  action 2
+[1518- 3-12  0:36] None started  action 1
+[1518- 3-12  0:49] None started  action 2
+[1518- 3-13  0: 0] 859 started  action 0
+[1518- 3-13  0:28] None started  action 1
+[1518- 3-13  0:46] None started  action 2
+[1518- 3-14  0: 0] 2971 started  action 0
+[1518- 3-14  0:13] None started  action 1
+[1518- 3-14  0:49] None started  action 2
+[1518- 3-15  0: 0] 1283 started  action 0
+[1518- 3-15  0:12] None started  action 1
+[1518- 3-15  0:16] None started  action 2
+[1518- 3-15  0:46] None started  action 1
+[1518- 3-15  0:51] None started  action 2
+[1518- 3-15 23:57] 1597 started  action 0
+[1518- 3-16  0:28] None started  action 1
+[1518- 3-16  0:55] None started  action 2
+[1518- 3-17  0: 0] 3449 started  action 0
+[1518- 3-18  0: 4] 1733 started  action 0
+[1518- 3-18  0:34] None started  action 1
+[1518- 3-18  0:48] None started  action 2
+[1518- 3-18 23:56] 859 started  action 0
+[1518- 3-19  0:16] None started  action 1
+[1518- 3-19  0:27] None started  action 2
+[1518- 3-19  0:35] None started  action 1
+[1518- 3-19  0:37] None started  action 2
+[1518- 3-20  0: 4] 887 started  action 0
+[1518- 3-20  0:26] None started  action 1
+[1518- 3-20  0:36] None started  action 2
+[1518- 3-20  0:40] None started  action 1
+[1518- 3-20  0:57] None started  action 2
+[1518- 3-21  0: 0] 859 started  action 0
+[1518- 3-21  0:21] None started  action 1
+[1518- 3-21  0:24] None started  action 2
+[1518- 3-21  0:37] None started  action 1
+[1518- 3-21  0:55] None started  action 2
+[1518- 3-21 23:56] 887 started  action 0
+[1518- 3-22  0:31] None started  action 1
+[1518- 3-22  0:37] None started  action 2
+[1518- 3-22 23:50] 2753 started  action 0
+[1518- 3-23  0: 5] None started  action 1
+[1518- 3-23  0:33] None started  action 2
+[1518- 3-23  0:50] None started  action 1
+[1518- 3-23  0:52] None started  action 2
+[1518- 3-24  0: 0] 859 started  action 0
+[1518- 3-24  0: 7] None started  action 1
+[1518- 3-24  0:12] None started  action 2
+[1518- 3-24  0:37] None started  action 1
+[1518- 3-24  0:47] None started  action 2
+[1518- 3-24  0:52] None started  action 1
+[1518- 3-24  0:57] None started  action 2
+[1518- 3-25  0: 2] 911 started  action 0
+[1518- 3-25  0:30] None started  action 1
+[1518- 3-25  0:59] None started  action 2
+[1518- 3-26  0: 2] 2851 started  action 0
+[1518- 3-26  0:42] None started  action 1
+[1518- 3-26  0:59] None started  action 2
+[1518- 3-27  0: 1] 2251 started  action 0
+[1518- 3-27  0:33] None started  action 1
+[1518- 3-27  0:38] None started  action 2
+[1518- 3-28  0: 0] 1597 started  action 0
+[1518- 3-28  0:41] None started  action 1
+[1518- 3-28  0:51] None started  action 2
+[1518- 3-28  0:56] None started  action 1
+[1518- 3-28  0:57] None started  action 2
+[1518- 3-28 23:53] 1213 started  action 0
+[1518- 3-29  0: 2] None started  action 1
+[1518- 3-29  0:11] None started  action 2
+[1518- 3-29  0:16] None started  action 1
+[1518- 3-29  0:48] None started  action 2
+[1518- 3-30  0: 2] 3121 started  action 0
+[1518- 3-30  0:24] None started  action 1
+[1518- 3-30  0:56] None started  action 2
+[1518- 3-30 23:59] 233 started  action 0
+[1518- 4- 1  0: 1] 2851 started  action 0
+[1518- 4- 1  0:34] None started  action 1
+[1518- 4- 1  0:47] None started  action 2
+[1518- 4- 1  0:53] None started  action 1
+[1518- 4- 1  0:57] None started  action 2
+[1518- 4- 1 23:56] 2851 started  action 0
+[1518- 4- 2  0:23] None started  action 1
+[1518- 4- 2  0:53] None started  action 2
+[1518- 4- 2  0:56] None started  action 1
+[1518- 4- 2  0:58] None started  action 2
+[1518- 4- 3  0: 4] 859 started  action 0
+[1518- 4- 3  0:34] None started  action 1
+[1518- 4- 3  0:57] None started  action 2
+[1518- 4- 3 23:52] 2753 started  action 0
+[1518- 4- 4  0: 3] None started  action 1
+[1518- 4- 4  0:38] None started  action 2
+[1518- 4- 4 23:57] 1439 started  action 0
+[1518- 4- 5  0:32] None started  action 1
+[1518- 4- 5  0:49] None started  action 2
+[1518- 4- 6  0: 4] 1223 started  action 0
+[1518- 4- 6  0:42] None started  action 1
+[1518- 4- 6  0:51] None started  action 2
+[1518- 4- 6 23:50] 3121 started  action 0
+[1518- 4- 7  0: 2] None started  action 1
+[1518- 4- 7  0:32] None started  action 2
+[1518- 4- 7  0:36] None started  action 1
+[1518- 4- 7  0:53] None started  action 2
+[1518- 4- 8  0: 1] 1283 started  action 0
+[1518- 4- 8  0:21] None started  action 1
+[1518- 4- 8  0:43] None started  action 2
+[1518- 4- 8  0:46] None started  action 1
+[1518- 4- 8  0:51] None started  action 2
+[1518- 4- 8 23:59] 1223 started  action 0
+[1518- 4- 9  0:12] None started  action 1
+[1518- 4- 9  0:45] None started  action 2
+[1518- 4- 9  0:55] None started  action 1
+[1518- 4- 9  0:58] None started  action 2
+[1518- 4-10  0: 0] 1733 started  action 0
+[1518- 4-10  0:24] None started  action 1
+[1518- 4-10  0:54] None started  action 2
+[1518- 4-10 23:56] 2903 started  action 0
+[1518- 4-11  0:37] None started  action 1
+[1518- 4-11  0:42] None started  action 2
+[1518- 4-11  0:50] None started  action 1
+[1518- 4-11  0:57] None started  action 2
+[1518- 4-12  0: 1] 3023 started  action 0
+[1518- 4-12  0:11] None started  action 1
+[1518- 4-12  0:17] None started  action 2
+[1518- 4-12  0:38] None started  action 1
+[1518- 4-12  0:55] None started  action 2
+[1518- 4-13  0: 3] 1733 started  action 0
+[1518- 4-13  0:20] None started  action 1
+[1518- 4-13  0:50] None started  action 2
+[1518- 4-13 23:59] 1231 started  action 0
+[1518- 4-14  0: 6] None started  action 1
+[1518- 4-14  0:56] None started  action 2
+[1518- 4-15  0: 4] 1637 started  action 0
+[1518- 4-15  0:15] None started  action 1
+[1518- 4-15  0:21] None started  action 2
+[1518- 4-15  0:33] None started  action 1
+[1518- 4-15  0:54] None started  action 2
+[1518- 4-15 23:53] 1439 started  action 0
+[1518- 4-16  0: 0] None started  action 1
+[1518- 4-16  0: 4] None started  action 2
+[1518- 4-16  0:16] None started  action 1
+[1518- 4-16  0:40] None started  action 2
+[1518- 4-17  0: 1] 2851 started  action 0
+[1518- 4-17  0:23] None started  action 1
+[1518- 4-17  0:42] None started  action 2
+[1518- 4-18  0: 0] 3121 started  action 0
+[1518- 4-18  0: 6] None started  action 1
+[1518- 4-18  0:24] None started  action 2
+[1518- 4-18  0:38] None started  action 1
+[1518- 4-18  0:51] None started  action 2
+[1518- 4-18 23:57] 3323 started  action 0
+[1518- 4-19  0:43] None started  action 1
+[1518- 4-19  0:49] None started  action 2
+[1518- 4-19  0:52] None started  action 1
+[1518- 4-19  0:53] None started  action 2
+[1518- 4-19  0:56] None started  action 1
+[1518- 4-19  0:57] None started  action 2
+[1518- 4-19 23:47] 3323 started  action 0
+[1518- 4-20  0: 5] None started  action 1
+[1518- 4-20  0:56] None started  action 2
+[1518- 4-21  0: 2] 1439 started  action 0
+[1518- 4-21  0:32] None started  action 1
+[1518- 4-21  0:54] None started  action 2
+[1518- 4-22  0: 4] 3121 started  action 0
+[1518- 4-22  0: 7] None started  action 1
+[1518- 4-22  0:10] None started  action 2
+[1518- 4-22  0:22] None started  action 1
+[1518- 4-22  0:30] None started  action 2
+[1518- 4-23  0: 4] 2251 started  action 0
+[1518- 4-23  0:11] None started  action 1
+[1518- 4-23  0:24] None started  action 2
+[1518- 4-24  0: 1] 233 started  action 0
+[1518- 4-25  0: 2] 1439 started  action 0
+[1518- 4-25  0:22] None started  action 1
+[1518- 4-25  0:36] None started  action 2
+[1518- 4-25  0:48] None started  action 1
+[1518- 4-25  0:49] None started  action 2
+[1518- 4-25 23:56] 1637 started  action 0
+[1518- 4-26  0:13] None started  action 1
+[1518- 4-26  0:16] None started  action 2
+[1518- 4-26  0:30] None started  action 1
+[1518- 4-26  0:36] None started  action 2
+[1518- 4-26 23:48] 1213 started  action 0
+[1518- 4-27  0: 3] None started  action 1
+[1518- 4-27  0:20] None started  action 2
+[1518- 4-27  0:24] None started  action 1
+[1518- 4-27  0:42] None started  action 2
+[1518- 4-27  0:47] None started  action 1
+[1518- 4-27  0:59] None started  action 2
+[1518- 4-27 23:59] 2707 started  action 0
+[1518- 4-28  0:23] None started  action 1
+[1518- 4-28  0:58] None started  action 2
+[1518- 4-28 23:50] 2753 started  action 0
+[1518- 4-29  0: 4] None started  action 1
+[1518- 4-29  0:47] None started  action 2
+[1518- 4-30  0: 1] 2753 started  action 0
+[1518- 4-30  0: 8] None started  action 1
+[1518- 4-30  0:51] None started  action 2
+[1518- 4-30 23:58] 911 started  action 0
+[1518- 5- 1  0:25] None started  action 1
+[1518- 5- 1  0:35] None started  action 2
+[1518- 5- 1  0:55] None started  action 1
+[1518- 5- 1  0:58] None started  action 2
+[1518- 5- 2  0: 1] 3121 started  action 0
+[1518- 5- 2  0:12] None started  action 1
+[1518- 5- 2  0:42] None started  action 2
+[1518- 5- 2  0:47] None started  action 1
+[1518- 5- 2  0:48] None started  action 2
+[1518- 5- 2  0:51] None started  action 1
+[1518- 5- 2  0:54] None started  action 2
+[1518- 5- 2 23:59] 1231 started  action 0
+[1518- 5- 3  0:39] None started  action 1
+[1518- 5- 3  0:58] None started  action 2
+[1518- 5- 4  0: 0] 2851 started  action 0
+[1518- 5- 4  0:43] None started  action 1
+[1518- 5- 4  0:57] None started  action 2
+[1518- 5- 5  0: 0] 1223 started  action 0
+[1518- 5- 5  0:18] None started  action 1
+[1518- 5- 5  0:47] None started  action 2
+[1518- 5- 5  0:50] None started  action 1
+[1518- 5- 5  0:54] None started  action 2
+[1518- 5- 5 23:50] 1213 started  action 0
+[1518- 5- 6  0: 2] None started  action 1
+[1518- 5- 6  0:39] None started  action 2
+[1518- 5- 6  0:43] None started  action 1
+[1518- 5- 6  0:46] None started  action 2
+[1518- 5- 6 23:59] 2251 started  action 0
+[1518- 5- 7  0:37] None started  action 1
+[1518- 5- 7  0:44] None started  action 2
+[1518- 5- 7  0:54] None started  action 1
+[1518- 5- 7  0:58] None started  action 2
+[1518- 5- 7 23:56] 1283 started  action 0
+[1518- 5- 8  0:41] None started  action 1
+[1518- 5- 8  0:46] None started  action 2
+[1518- 5- 8  0:49] None started  action 1
+[1518- 5- 8  0:54] None started  action 2
+[1518- 5- 8 23:50] 1283 started  action 0
+[1518- 5- 9  0: 3] None started  action 1
+[1518- 5- 9  0:17] None started  action 2
+[1518- 5- 9  0:25] None started  action 1
+[1518- 5- 9  0:49] None started  action 2
+[1518- 5- 9 23:57] 1999 started  action 0
+[1518- 5-11  0: 3] 3323 started  action 0
+[1518- 5-11  0:34] None started  action 1
+[1518- 5-11  0:44] None started  action 2
+[1518- 5-11  0:52] None started  action 1
+[1518- 5-11  0:55] None started  action 2
+[1518- 5-11 23:56] 3323 started  action 0
+[1518- 5-12  0: 8] None started  action 1
+[1518- 5-12  0:44] None started  action 2
+[1518- 5-13  0: 0] 1439 started  action 0
+[1518- 5-13  0:42] None started  action 1
+[1518- 5-13  0:44] None started  action 2
+[1518- 5-13  0:47] None started  action 1
+[1518- 5-13  0:50] None started  action 2
+[1518- 5-14  0: 3] 2903 started  action 0
+[1518- 5-14  0:32] None started  action 1
+[1518- 5-14  0:50] None started  action 2
+[1518- 5-14 23:57] 859 started  action 0
+[1518- 5-15  0:46] None started  action 1
+[1518- 5-15  0:56] None started  action 2
+[1518- 5-16  0: 2] 887 started  action 0
+[1518- 5-16  0:15] None started  action 1
+[1518- 5-16  0:42] None started  action 2
+[1518- 5-17  0: 3] 859 started  action 0
+[1518- 5-17  0:25] None started  action 1
+[1518- 5-17  0:48] None started  action 2
+[1518- 5-18  0: 4] 1231 started  action 0
+[1518- 5-18  0:37] None started  action 1
+[1518- 5-18  0:43] None started  action 2
+[1518- 5-18 23:57] 1231 started  action 0
+[1518- 5-19  0:14] None started  action 1
+[1518- 5-19  0:29] None started  action 2
+[1518- 5-19  0:43] None started  action 1
+[1518- 5-19  0:52] None started  action 2
+[1518- 5-20  0: 0] 3323 started  action 0
+[1518- 5-20  0:46] None started  action 1
+[1518- 5-20  0:58] None started  action 2
+[1518- 5-20 23:58] 1597 started  action 0
+[1518- 5-21  0: 9] None started  action 1
+[1518- 5-21  0:37] None started  action 2
+[1518- 5-21 23:57] 2251 started  action 0
+[1518- 5-22  0:12] None started  action 1
+[1518- 5-22  0:19] None started  action 2
+[1518- 5-22 23:59] 1213 started  action 0
+[1518- 5-23  0:19] None started  action 1
+[1518- 5-23  0:24] None started  action 2
+[1518- 5-23  0:28] None started  action 1
+[1518- 5-23  0:55] None started  action 2
+[1518- 5-24  0: 2] 2903 started  action 0
+[1518- 5-24  0:27] None started  action 1
+[1518- 5-24  0:51] None started  action 2
+[1518- 5-25  0: 4] 3121 started  action 0
+[1518- 5-25  0:20] None started  action 1
+[1518- 5-25  0:43] None started  action 2
+[1518- 5-25  0:50] None started  action 1
+[1518- 5-25  0:55] None started  action 2
+[1518- 5-26  0: 3] 233 started  action 0
+[1518- 5-27  0: 0] 1283 started  action 0
+[1518- 5-27  0:12] None started  action 1
+[1518- 5-27  0:15] None started  action 2
+[1518- 5-27  0:35] None started  action 1
+[1518- 5-27  0:41] None started  action 2
+[1518- 5-27  0:49] None started  action 1
+[1518- 5-27  0:52] None started  action 2
+[1518- 5-28  0: 3] 1439 started  action 0
+[1518- 5-28  0:17] None started  action 1
+[1518- 5-28  0:24] None started  action 2
+[1518- 5-28  0:35] None started  action 1
+[1518- 5-28  0:46] None started  action 2
+[1518- 5-28  0:49] None started  action 1
+[1518- 5-28  0:58] None started  action 2
+[1518- 5-29  0: 4] 2707 started  action 0
+[1518- 5-29  0:51] None started  action 1
+[1518- 5-29  0:57] None started  action 2
+[1518- 5-30  0: 3] 3121 started  action 0
+[1518- 5-30  0:14] None started  action 1
+[1518- 5-30  0:26] None started  action 2
+[1518- 5-30 23:56] 2753 started  action 0
+[1518- 5-31  0:20] None started  action 1
+[1518- 5-31  0:51] None started  action 2
+[1518- 5-31 23:46] 3023 started  action 0
+[1518- 6- 1  0: 3] None started  action 1
+[1518- 6- 1  0:36] None started  action 2
+[1518- 6- 1  0:47] None started  action 1
+[1518- 6- 1  0:53] None started  action 2
+[1518- 6- 2  0: 0] 887 started  action 0
+[1518- 6- 2  0:19] None started  action 1
+[1518- 6- 2  0:51] None started  action 2
+[1518- 6- 2 23:48] 2753 started  action 0
+[1518- 6- 3  0: 5] None started  action 1
+[1518- 6- 3  0:41] None started  action 2
+[1518- 6- 4  0: 3] 2971 started  action 0
+[1518- 6- 4  0:25] None started  action 1
+[1518- 6- 4  0:47] None started  action 2
+[1518- 6- 4  0:52] None started  action 1
+[1518- 6- 4  0:55] None started  action 2
+[1518- 6- 4 23:59] 859 started  action 0
+[1518- 6- 5  0:41] None started  action 1
+[1518- 6- 5  0:42] None started  action 2
+[1518- 6- 5  0:50] None started  action 1
+[1518- 6- 5  0:57] None started  action 2
+[1518- 6- 5 23:57] 2753 started  action 0
+[1518- 6- 6  0:27] None started  action 1
+[1518- 6- 6  0:45] None started  action 2
+[1518- 6- 6  0:48] None started  action 1
+[1518- 6- 6  0:54] None started  action 2
+[1518- 6- 6 23:56] 3323 started  action 0
+[1518- 6- 7  0:33] None started  action 1
+[1518- 6- 7  0:36] None started  action 2
+[1518- 6- 7  0:43] None started  action 1
+[1518- 6- 7  0:49] None started  action 2
+[1518- 6- 7 23:47] 1223 started  action 0
+[1518- 6- 8  0: 3] None started  action 1
+[1518- 6- 8  0:28] None started  action 2
+[1518- 6- 8  0:33] None started  action 1
+[1518- 6- 8  0:54] None started  action 2
+[1518- 6- 9  0: 0] 1597 started  action 0
+[1518- 6- 9  0:20] None started  action 1
+[1518- 6- 9  0:51] None started  action 2
+[1518- 6- 9 23:50] 3023 started  action 0
+[1518- 6-10  0: 3] None started  action 1
+[1518- 6-10  0:35] None started  action 2
+[1518- 6-11  0: 1] 1439 started  action 0
+[1518- 6-11  0:18] None started  action 1
+[1518- 6-11  0:46] None started  action 2
+[1518- 6-12  0: 0] 1231 started  action 0
+[1518- 6-12  0:17] None started  action 1
+[1518- 6-12  0:58] None started  action 2
+[1518- 6-12 23:58] 3023 started  action 0
+[1518- 6-13  0:24] None started  action 1
+[1518- 6-13  0:52] None started  action 2
+[1518- 6-13 23:56] 887 started  action 0
+[1518- 6-14  0:12] None started  action 1
+[1518- 6-14  0:21] None started  action 2
+[1518- 6-14  0:25] None started  action 1
+[1518- 6-14  0:56] None started  action 2
+[1518- 6-15  0: 2] 2251 started  action 0
+[1518- 6-15  0:39] None started  action 1
+[1518- 6-15  0:45] None started  action 2
+[1518- 6-16  0: 4] 2851 started  action 0
+[1518- 6-16  0:41] None started  action 1
+[1518- 6-16  0:56] None started  action 2
+[1518- 6-16 23:58] 859 started  action 0
+[1518- 6-17  0:20] None started  action 1
+[1518- 6-17  0:57] None started  action 2
+[1518- 6-17 23:57] 3121 started  action 0
+[1518- 6-18  0: 9] None started  action 1
+[1518- 6-18  0:51] None started  action 2
+[1518- 6-18  0:55] None started  action 1
+[1518- 6-18  0:56] None started  action 2
+[1518- 6-19  0: 1] 2707 started  action 0
+[1518- 6-19  0:23] None started  action 1
+[1518- 6-19  0:49] None started  action 2
+[1518- 6-20  0: 3] 3323 started  action 0
+[1518- 6-20  0:25] None started  action 1
+[1518- 6-20  0:36] None started  action 2
+[1518- 6-21  0: 3] 1637 started  action 0
+[1518- 6-21  0:48] None started  action 1
+[1518- 6-21  0:50] None started  action 2
+[1518- 6-22  0: 0] 3023 started  action 0
+[1518- 6-22  0:14] None started  action 1
+[1518- 6-22  0:56] None started  action 2
+[1518- 6-23  0: 0] 3121 started  action 0
+[1518- 6-23  0:48] None started  action 1
+[1518- 6-23  0:50] None started  action 2
+[1518- 6-23  0:54] None started  action 1
+[1518- 6-23  0:58] None started  action 2
+[1518- 6-23 23:47] 1439 started  action 0
+[1518- 6-24  0: 1] None started  action 1
+[1518- 6-24  0: 4] None started  action 2
+[1518- 6-24  0:17] None started  action 1
+[1518- 6-24  0:43] None started  action 2
+[1518- 6-24  0:47] None started  action 1
+[1518- 6-24  0:57] None started  action 2
+[1518- 6-25  0: 1] 2903 started  action 0
+[1518- 6-25  0:23] None started  action 1
+[1518- 6-25  0:51] None started  action 2
+[1518- 6-25 23:57] 2851 started  action 0
+[1518- 6-26  0:37] None started  action 1
+[1518- 6-26  0:47] None started  action 2
+[1518- 6-26 23:58] 2903 started  action 0
+[1518- 6-27  0:14] None started  action 1
+[1518- 6-27  0:53] None started  action 2
+[1518- 6-27 23:53] 1213 started  action 0
+[1518- 6-28  0: 1] None started  action 1
+[1518- 6-28  0: 6] None started  action 2
+[1518- 6-28  0:15] None started  action 1
+[1518- 6-28  0:28] None started  action 2
+[1518- 6-28  0:35] None started  action 1
+[1518- 6-28  0:43] None started  action 2
+[1518- 6-29  0: 4] 3323 started  action 0
+[1518- 6-29  0:28] None started  action 1
+[1518- 6-29  0:44] None started  action 2
+[1518- 6-29  0:49] None started  action 1
+[1518- 6-29  0:50] None started  action 2
+[1518- 6-30  0: 4] 1733 started  action 0
+[1518- 6-30  0:22] None started  action 1
+[1518- 6-30  0:55] None started  action 2
+[1518- 7- 1  0: 0] 3023 started  action 0
+[1518- 7- 1  0:13] None started  action 1
+[1518- 7- 1  0:46] None started  action 2
+[1518- 7- 1 23:59] 2707 started  action 0
+[1518- 7- 2  0:32] None started  action 1
+[1518- 7- 2  0:53] None started  action 2
+[1518- 7- 2 23:59] 2251 started  action 0
+[1518- 7- 3  0:23] None started  action 1
+[1518- 7- 3  0:45] None started  action 2
+[1518- 7- 4  0: 3] 3023 started  action 0
+[1518- 7- 4  0:38] None started  action 1
+[1518- 7- 4  0:59] None started  action 2
+[1518- 7- 4 23:56] 3449 started  action 0
+[1518- 7- 5 23:52] 3023 started  action 0
+[1518- 7- 6  0: 1] None started  action 1
+[1518- 7- 6  0:17] None started  action 2
+[1518- 7- 6  0:39] None started  action 1
+[1518- 7- 6  0:51] None started  action 2
+[1518- 7- 6  0:55] None started  action 1
+[1518- 7- 6  0:58] None started  action 2
+[1518- 7- 6 23:59] 2971 started  action 0
+[1518- 7- 7  0:19] None started  action 1
+[1518- 7- 7  0:49] None started  action 2
+[1518- 7- 7 23:56] 1597 started  action 0
+[1518- 7- 8  0:22] None started  action 1
+[1518- 7- 8  0:33] None started  action 2
+[1518- 7- 8  0:42] None started  action 1
+[1518- 7- 8  0:57] None started  action 2
+[1518- 7- 8 23:56] 3323 started  action 0
+[1518- 7- 9  0:29] None started  action 1
+[1518- 7- 9  0:50] None started  action 2
+[1518- 7- 9 23:57] 2851 started  action 0
+[1518- 7-10  0:11] None started  action 1
+[1518- 7-10  0:28] None started  action 2
+[1518- 7-10  0:44] None started  action 1
+[1518- 7-10  0:51] None started  action 2
+[1518- 7-11  0: 2] 1439 started  action 0
+[1518- 7-11  0:33] None started  action 1
+[1518- 7-11  0:57] None started  action 2
+[1518- 7-11 23:47] 1223 started  action 0
+[1518- 7-12  0: 3] None started  action 1
+[1518- 7-12  0: 9] None started  action 2
+[1518- 7-12  0:35] None started  action 1
+[1518- 7-12  0:40] None started  action 2
+[1518- 7-13  0: 3] 3121 started  action 0
+[1518- 7-13  0:27] None started  action 1
+[1518- 7-13  0:36] None started  action 2
+[1518- 7-13  0:47] None started  action 1
+[1518- 7-13  0:52] None started  action 2
+[1518- 7-13 23:50] 2753 started  action 0
+[1518- 7-14  0: 1] None started  action 1
+[1518- 7-14  0:57] None started  action 2
+[1518- 7-14 23:59] 2851 started  action 0
+[1518- 7-15  0:18] None started  action 1
+[1518- 7-15  0:56] None started  action 2
+[1518- 7-15 23:58] 1231 started  action 0
+[1518- 7-16  0:10] None started  action 1
+[1518- 7-16  0:57] None started  action 2
+[1518- 7-16 23:53] 1597 started  action 0
+[1518- 7-17  0: 2] None started  action 1
+[1518- 7-17  0:24] None started  action 2
+[1518- 7-17  0:42] None started  action 1
+[1518- 7-17  0:49] None started  action 2
+[1518- 7-17  0:54] None started  action 1
+[1518- 7-17  0:58] None started  action 2
+[1518- 7-18  0: 2] 1439 started  action 0
+[1518- 7-18  0:24] None started  action 1
+[1518- 7-18  0:49] None started  action 2
+[1518- 7-19  0: 4] 1231 started  action 0
+[1518- 7-19  0:26] None started  action 1
+[1518- 7-19  0:42] None started  action 2
+[1518- 7-19 23:59] 3121 started  action 0
+[1518- 7-20  0:13] None started  action 1
+[1518- 7-20  0:36] None started  action 2
+[1518- 7-20 23:58] 3323 started  action 0
+[1518- 7-21  0:39] None started  action 1
+[1518- 7-21  0:56] None started  action 2
+[1518- 7-21 23:59] 3023 started  action 0
+[1518- 7-22  0:36] None started  action 1
+[1518- 7-22  0:58] None started  action 2
+[1518- 7-22 23:50] 2903 started  action 0
+[1518- 7-23  0: 1] None started  action 1
+[1518- 7-23  0:26] None started  action 2
+[1518- 7-23  0:29] None started  action 1
+[1518- 7-23  0:39] None started  action 2
+[1518- 7-23 23:59] 1213 started  action 0
+[1518- 7-24  0:11] None started  action 1
+[1518- 7-24  0:21] None started  action 2
+[1518- 7-25  0: 3] 2251 started  action 0
+[1518- 7-25  0:33] None started  action 1
+[1518- 7-25  0:50] None started  action 2
+[1518- 7-26  0: 3] 2971 started  action 0
+[1518- 7-26  0:30] None started  action 1
+[1518- 7-26  0:55] None started  action 2
+[1518- 7-26 23:52] 1597 started  action 0
+[1518- 7-27  0: 5] None started  action 1
+[1518- 7-27  0:30] None started  action 2
+[1518- 7-27  0:36] None started  action 1
+[1518- 7-27  0:55] None started  action 2
+[1518- 7-28  0: 1] 2971 started  action 0
+[1518- 7-28  0:14] None started  action 1
+[1518- 7-28  0:35] None started  action 2
+[1518- 7-28  0:44] None started  action 1
+[1518- 7-28  0:54] None started  action 2
+[1518- 7-29  0: 0] 2903 started  action 0
+[1518- 7-29  0:46] None started  action 1
+[1518- 7-29  0:56] None started  action 2
+[1518- 7-29 23:57] 2251 started  action 0
+[1518- 7-30  0:13] None started  action 1
+[1518- 7-30  0:16] None started  action 2
+[1518- 7-30  0:20] None started  action 1
+[1518- 7-30  0:21] None started  action 2
+[1518- 7-31  0: 4] 3023 started  action 0
+[1518- 7-31  0:49] None started  action 1
+[1518- 7-31  0:58] None started  action 2
+[1518- 8- 1  0: 0] 3323 started  action 0
+[1518- 8- 1  0:11] None started  action 1
+[1518- 8- 1  0:37] None started  action 2
+[1518- 8- 2  0: 2] 1223 started  action 0
+[1518- 8- 2  0:10] None started  action 1
+[1518- 8- 2  0:31] None started  action 2
+[1518- 8- 2  0:44] None started  action 1
+[1518- 8- 2  0:53] None started  action 2
+[1518- 8- 2 23:57] 859 started  action 0
+[1518- 8- 3  0:19] None started  action 1
+[1518- 8- 3  0:37] None started  action 2
+[1518- 8- 3  0:53] None started  action 1
+[1518- 8- 3  0:54] None started  action 2
+[1518- 8- 4  0: 1] 1439 started  action 0
+[1518- 8- 4  0:22] None started  action 1
+[1518- 8- 4  0:35] None started  action 2
+[1518- 8- 5  0: 2] 887 started  action 0
+[1518- 8- 5  0: 8] None started  action 1
+[1518- 8- 5  0:14] None started  action 2
+[1518- 8- 5  0:23] None started  action 1
+[1518- 8- 5  0:38] None started  action 2
+[1518- 8- 5  0:45] None started  action 1
+[1518- 8- 5  0:56] None started  action 2
+[1518- 8- 5 23:59] 859 started  action 0
+[1518- 8- 6  0:11] None started  action 1
+[1518- 8- 6  0:13] None started  action 2
+[1518- 8- 6  0:16] None started  action 1
+[1518- 8- 6  0:57] None started  action 2
+[1518- 8- 6 23:59] 1999 started  action 0
+[1518- 8- 8  0: 4] 2903 started  action 0
+[1518- 8- 8  0:55] None started  action 1
+[1518- 8- 8  0:56] None started  action 2
+[1518- 8- 9  0: 3] 2707 started  action 0
+[1518- 8- 9  0:26] None started  action 1
+[1518- 8- 9  0:53] None started  action 2
+[1518- 8-10  0: 3] 3023 started  action 0
+[1518- 8-10  0:34] None started  action 1
+[1518- 8-10  0:38] None started  action 2
+[1518- 8-10  0:50] None started  action 1
+[1518- 8-10  0:54] None started  action 2
+[1518- 8-10 23:57] 1231 started  action 0
+[1518- 8-11  0:28] None started  action 1
+[1518- 8-11  0:47] None started  action 2
+[1518- 8-11  0:52] None started  action 1
+[1518- 8-11  0:56] None started  action 2
+[1518- 8-11 23:59] 1213 started  action 0
+[1518- 8-12  0:17] None started  action 1
+[1518- 8-12  0:56] None started  action 2
+[1518- 8-12 23:56] 1283 started  action 0
+[1518- 8-13  0:27] None started  action 1
+[1518- 8-13  0:55] None started  action 2
+[1518- 8-14  0: 0] 3023 started  action 0
+[1518- 8-14  0:12] None started  action 1
+[1518- 8-14  0:19] None started  action 2
+[1518- 8-14  0:34] None started  action 1
+[1518- 8-14  0:55] None started  action 2
+[1518- 8-15  0: 2] 2753 started  action 0
+[1518- 8-15  0:17] None started  action 1
+[1518- 8-15  0:31] None started  action 2
+[1518- 8-15  0:41] None started  action 1
+[1518- 8-15  0:59] None started  action 2
+[1518- 8-16  0: 2] 2851 started  action 0
+[1518- 8-16  0:18] None started  action 1
+[1518- 8-16  0:35] None started  action 2
+[1518- 8-16  0:53] None started  action 1
+[1518- 8-16  0:57] None started  action 2
+[1518- 8-17  0: 2] 1597 started  action 0
+[1518- 8-17  0:37] None started  action 1
+[1518- 8-17  0:42] None started  action 2
+[1518- 8-18  0: 0] 2707 started  action 0
+[1518- 8-18  0:28] None started  action 1
+[1518- 8-18  0:59] None started  action 2
+[1518- 8-19  0: 2] 1223 started  action 0
+[1518- 8-19  0:42] None started  action 1
+[1518- 8-19  0:48] None started  action 2
+[1518- 8-20  0: 1] 911 started  action 0
+[1518- 8-20  0:28] None started  action 1
+[1518- 8-20  0:44] None started  action 2
+[1518- 8-21  0: 1] 887 started  action 0
+[1518- 8-21  0:36] None started  action 1
+[1518- 8-21  0:39] None started  action 2
+[1518- 8-21 23:50] 3323 started  action 0
+[1518- 8-22  0: 4] None started  action 1
+[1518- 8-22  0: 6] None started  action 2
+[1518- 8-23  0: 0] 233 started  action 0
+[1518- 8-24  0: 4] 2851 started  action 0
+[1518- 8-24  0:40] None started  action 1
+[1518- 8-24  0:42] None started  action 2
+[1518- 8-24  0:47] None started  action 1
+[1518- 8-24  0:59] None started  action 2
+[1518- 8-25  0: 0] 887 started  action 0
+[1518- 8-25  0:10] None started  action 1
+[1518- 8-25  0:31] None started  action 2
+[1518- 8-25  0:45] None started  action 1
+[1518- 8-25  0:50] None started  action 2
+[1518- 8-25  0:53] None started  action 1
+[1518- 8-25  0:56] None started  action 2
+[1518- 8-25 23:58] 887 started  action 0
+[1518- 8-26  0:27] None started  action 1
+[1518- 8-26  0:50] None started  action 2
+[1518- 8-27  0: 0] 3323 started  action 0
+[1518- 8-27  0:48] None started  action 1
+[1518- 8-27  0:52] None started  action 2
+[1518- 8-28  0: 0] 3023 started  action 0
+[1518- 8-28  0:28] None started  action 1
+[1518- 8-28  0:47] None started  action 2
+[1518- 8-28 23:52] 1283 started  action 0
+[1518- 8-29  0: 5] None started  action 1
+[1518- 8-29  0:16] None started  action 2
+[1518- 8-29  0:25] None started  action 1
+[1518- 8-29  0:59] None started  action 2
+[1518- 8-29 23:57] 1733 started  action 0
+[1518- 8-30  0:33] None started  action 1
+[1518- 8-30  0:43] None started  action 2
+[1518- 8-30  0:56] None started  action 1
+[1518- 8-30  0:59] None started  action 2
+[1518- 8-30 23:56] 3121 started  action 0
+[1518- 8-31  0: 6] None started  action 1
+[1518- 8-31  0:36] None started  action 2
+[1518- 8-31  0:51] None started  action 1
+[1518- 8-31  0:57] None started  action 2
+[1518- 9- 1  0: 4] 1223 started  action 0
+[1518- 9- 1  0:15] None started  action 1
+[1518- 9- 1  0:30] None started  action 2
+[1518- 9- 1  0:44] None started  action 1
+[1518- 9- 1  0:54] None started  action 2
+[1518- 9- 1 23:56] 3323 started  action 0
+[1518- 9- 2  0:23] None started  action 1
+[1518- 9- 2  0:25] None started  action 2
+[1518- 9- 2  0:29] None started  action 1
+[1518- 9- 2  0:41] None started  action 2
+[1518- 9- 2 23:53] 2851 started  action 0
+[1518- 9- 3  0: 3] None started  action 1
+[1518- 9- 3  0:57] None started  action 2
+[1518- 9- 3 23:56] 1597 started  action 0
+[1518- 9- 4  0:28] None started  action 1
+[1518- 9- 4  0:49] None started  action 2
+[1518- 9- 4 23:51] 3121 started  action 0
+[1518- 9- 5  0: 1] None started  action 1
+[1518- 9- 5  0:28] None started  action 2
+[1518- 9- 6  0: 3] 3023 started  action 0
+[1518- 9- 6  0:23] None started  action 1
+[1518- 9- 6  0:50] None started  action 2
+[1518- 9- 6  0:53] None started  action 1
+[1518- 9- 6  0:55] None started  action 2
+[1518- 9- 7  0: 2] 1283 started  action 0
+[1518- 9- 7  0: 7] None started  action 1
+[1518- 9- 7  0:52] None started  action 2
+[1518- 9- 8  0: 4] 2903 started  action 0
+[1518- 9- 8  0:29] None started  action 1
+[1518- 9- 8  0:53] None started  action 2
+[1518- 9- 9  0: 4] 2251 started  action 0
+[1518- 9- 9  0:13] None started  action 1
+[1518- 9- 9  0:43] None started  action 2
+[1518- 9- 9 23:57] 2707 started  action 0
+[1518- 9-10  0:26] None started  action 1
+[1518- 9-10  0:31] None started  action 2
+[1518- 9-10  0:38] None started  action 1
+[1518- 9-10  0:46] None started  action 2
+[1518- 9-10  0:49] None started  action 1
+[1518- 9-10  0:53] None started  action 2
+[1518- 9-10  0:56] None started  action 1
+[1518- 9-10  0:58] None started  action 2
+[1518- 9-11  0: 4] 1637 started  action 0
+[1518- 9-11  0:18] None started  action 1
+[1518- 9-11  0:19] None started  action 2
+[1518- 9-12  0: 0] 2753 started  action 0
+[1518- 9-12  0:14] None started  action 1
+[1518- 9-12  0:29] None started  action 2
+[1518- 9-12  0:47] None started  action 1
+[1518- 9-12  0:49] None started  action 2
+[1518- 9-12 23:59] 1637 started  action 0
+[1518- 9-13  0: 9] None started  action 1
+[1518- 9-13  0:19] None started  action 2
+[1518- 9-13  0:51] None started  action 1
+[1518- 9-13  0:59] None started  action 2
+[1518- 9-14  0: 3] 911 started  action 0
+[1518- 9-14  0:23] None started  action 1
+[1518- 9-14  0:45] None started  action 2
+[1518- 9-14  0:55] None started  action 1
+[1518- 9-14  0:59] None started  action 2
+[1518- 9-15  0: 3] 2971 started  action 0
+[1518- 9-15  0:36] None started  action 1
+[1518- 9-15  0:51] None started  action 2
+[1518- 9-15 23:46] 2971 started  action 0
+[1518- 9-16  0: 2] None started  action 1
+[1518- 9-16  0:59] None started  action 2
+[1518- 9-16 23:59] 3323 started  action 0
+[1518- 9-17  0:19] None started  action 1
+[1518- 9-17  0:22] None started  action 2
+[1518- 9-17  0:38] None started  action 1
+[1518- 9-17  0:53] None started  action 2
+[1518- 9-17 23:58] 3323 started  action 0
+[1518- 9-18  0:10] None started  action 1
+[1518- 9-18  0:42] None started  action 2
+[1518- 9-18 23:50] 1439 started  action 0
+[1518- 9-19  0: 2] None started  action 1
+[1518- 9-19  0:32] None started  action 2
+[1518- 9-19 23:49] 1597 started  action 0
+[1518- 9-20  0: 4] None started  action 1
+[1518- 9-20  0:19] None started  action 2
+[1518- 9-20  0:39] None started  action 1
+[1518- 9-20  0:53] None started  action 2
+[1518- 9-20 23:57] 887 started  action 0
+[1518- 9-21  0:34] None started  action 1
+[1518- 9-21  0:55] None started  action 2
+[1518- 9-21 23:58] 1213 started  action 0
+[1518- 9-22  0:18] None started  action 1
+[1518- 9-22  0:23] None started  action 2
+[1518- 9-22  0:52] None started  action 1
+[1518- 9-22  0:59] None started  action 2
+[1518- 9-22 23:53] 859 started  action 0
+[1518- 9-23  0: 2] None started  action 1
+[1518- 9-23  0:31] None started  action 2
+[1518- 9-23 23:57] 1223 started  action 0
+[1518- 9-24  0:44] None started  action 1
+[1518- 9-24  0:47] None started  action 2
+[1518- 9-24  0:50] None started  action 1
+[1518- 9-24  0:59] None started  action 2
+[1518- 9-25  0: 1] 859 started  action 0
+[1518- 9-25  0:26] None started  action 1
+[1518- 9-25  0:40] None started  action 2
+[1518- 9-25 23:58] 1213 started  action 0
+[1518- 9-26  0:16] None started  action 1
+[1518- 9-26  0:21] None started  action 2
+[1518- 9-26  0:43] None started  action 1
+[1518- 9-26  0:50] None started  action 2
+[1518- 9-26  0:56] None started  action 1
+[1518- 9-26  0:57] None started  action 2
+[1518- 9-26 23:59] 2707 started  action 0
+[1518- 9-27  0:46] None started  action 1
+[1518- 9-27  0:59] None started  action 2
+[1518- 9-27 23:59] 2707 started  action 0
+[1518- 9-28  0:25] None started  action 1
+[1518- 9-28  0:50] None started  action 2
+[1518- 9-29  0: 1] 3023 started  action 0
+[1518- 9-29  0:37] None started  action 1
+[1518- 9-29  0:38] None started  action 2
+[1518- 9-29  0:44] None started  action 1
+[1518- 9-29  0:47] None started  action 2
+[1518- 9-29 23:50] 2851 started  action 0
+[1518- 9-30  0: 3] None started  action 1
+[1518- 9-30  0:46] None started  action 2
+[1518- 9-30 23:59] 2903 started  action 0
+[1518-10- 1  0:12] None started  action 1
+[1518-10- 1  0:46] None started  action 2
+[1518-10- 2  0: 2] 2971 started  action 0
+[1518-10- 2  0:24] None started  action 1
+[1518-10- 2  0:47] None started  action 2
+[1518-10- 3  0: 0] 2251 started  action 0
+[1518-10- 3  0: 8] None started  action 1
+[1518-10- 3  0:37] None started  action 2
+[1518-10- 4  0: 2] 1637 started  action 0
+[1518-10- 4  0:51] None started  action 1
+[1518-10- 4  0:53] None started  action 2
+[1518-10- 4 23:50] 2903 started  action 0
+[1518-10- 5  0: 5] None started  action 1
+[1518-10- 5  0:11] None started  action 2
+[1518-10- 5  0:21] None started  action 1
+[1518-10- 5  0:51] None started  action 2
+[1518-10- 6  0: 1] 1733 started  action 0
+[1518-10- 6  0: 6] None started  action 1
+[1518-10- 6  0:57] None started  action 2
+[1518-10- 6 23:51] 887 started  action 0
+[1518-10- 7  0: 0] None started  action 1
+[1518-10- 7  0:21] None started  action 2
+[1518-10- 7  0:32] None started  action 1
+[1518-10- 7  0:35] None started  action 2
+[1518-10- 7  0:50] None started  action 1
+[1518-10- 7  0:51] None started  action 2
+[1518-10- 7  0:54] None started  action 1
+[1518-10- 7  0:58] None started  action 2
+[1518-10- 7 23:48] 1223 started  action 0
+[1518-10- 8  0: 1] None started  action 1
+[1518-10- 8  0:41] None started  action 2
+[1518-10- 8 23:56] 2903 started  action 0
+[1518-10- 9  0:30] None started  action 1
+[1518-10- 9  0:41] None started  action 2
+[1518-10- 9  0:46] None started  action 1
+[1518-10- 9  0:49] None started  action 2
+[1518-10- 9  0:52] None started  action 1
+[1518-10- 9  0:57] None started  action 2
+[1518-10-10  0: 3] 2251 started  action 0
+[1518-10-10  0: 9] None started  action 1
+[1518-10-10  0:20] None started  action 2
+[1518-10-10  0:27] None started  action 1
+[1518-10-10  0:45] None started  action 2
+[1518-10-10  0:55] None started  action 1
+[1518-10-10  0:57] None started  action 2
+[1518-10-10 23:52] 2707 started  action 0
+[1518-10-11  0: 2] None started  action 1
+[1518-10-11  0:26] None started  action 2
+[1518-10-11  0:51] None started  action 1
+[1518-10-11  0:53] None started  action 2
+[1518-10-11 23:57] 911 started  action 0
+[1518-10-12  0:21] None started  action 1
+[1518-10-12  0:36] None started  action 2
+[1518-10-12  0:46] None started  action 1
+[1518-10-12  0:47] None started  action 2
+[1518-10-12  0:50] None started  action 1
+[1518-10-12  0:55] None started  action 2
+[1518-10-13  0: 3] 3023 started  action 0
+[1518-10-13  0:29] None started  action 1
+[1518-10-13  0:58] None started  action 2
+[1518-10-14  0: 2] 1231 started  action 0
+[1518-10-14  0:19] None started  action 1
+[1518-10-14  0:36] None started  action 2
+[1518-10-14  0:39] None started  action 1
+[1518-10-14  0:55] None started  action 2
+[1518-10-15  0: 1] 3121 started  action 0
+[1518-10-15  0:27] None started  action 1
+[1518-10-15  0:39] None started  action 2
+[1518-10-15  0:53] None started  action 1
+[1518-10-15  0:54] None started  action 2
+[1518-10-16  0: 1] 2903 started  action 0
+[1518-10-16  0:45] None started  action 1
+[1518-10-16  0:49] None started  action 2
+[1518-10-16  0:56] None started  action 1
+[1518-10-16  0:59] None started  action 2
+[1518-10-17  0: 3] 2753 started  action 0
+[1518-10-17  0:26] None started  action 1
+[1518-10-17  0:40] None started  action 2
+[1518-10-17  0:51] None started  action 1
+[1518-10-17  0:54] None started  action 2
+[1518-10-18  0: 4] 2903 started  action 0
+[1518-10-18  0:37] None started  action 1
+[1518-10-18  0:53] None started  action 2
+[1518-10-18 23:56] 1637 started  action 0
+[1518-10-19  0:51] None started  action 1
+[1518-10-19  0:53] None started  action 2
+[1518-10-19  0:56] None started  action 1
+[1518-10-19  0:58] None started  action 2
+[1518-10-19 23:58] 3023 started  action 0
+[1518-10-20  0:12] None started  action 1
+[1518-10-20  0:48] None started  action 2
+[1518-10-20 23:57] 2753 started  action 0
+[1518-10-21  0:28] None started  action 1
+[1518-10-21  0:50] None started  action 2
+[1518-10-22  0: 3] 2971 started  action 0
+[1518-10-22  0:28] None started  action 1
+[1518-10-22  0:50] None started  action 2
+[1518-10-22 23:56] 2903 started  action 0
+[1518-10-23  0:41] None started  action 1
+[1518-10-23  0:54] None started  action 2
+[1518-10-23 23:58] 2851 started  action 0
+[1518-10-24  0:28] None started  action 1
+[1518-10-24  0:43] None started  action 2
+[1518-10-25  0: 1] 1213 started  action 0
+[1518-10-25  0:17] None started  action 1
+[1518-10-25  0:22] None started  action 2
+[1518-10-25  0:44] None started  action 1
+[1518-10-25  0:51] None started  action 2
+[1518-10-25  0:56] None started  action 1
+[1518-10-25  0:59] None started  action 2
+[1518-10-26  0: 3] 887 started  action 0
+[1518-10-26  0:37] None started  action 1
+[1518-10-26  0:58] None started  action 2
+[1518-10-27  0: 1] 1213 started  action 0
+[1518-10-27  0:10] None started  action 1
+[1518-10-27  0:33] None started  action 2
+[1518-10-27 23:59] 911 started  action 0
+[1518-10-28  0:46] None started  action 1
+[1518-10-28  0:51] None started  action 2
+[1518-10-28 23:56] 859 started  action 0
+[1518-10-29  0:53] None started  action 1
+[1518-10-29  0:59] None started  action 2
+[1518-10-29 23:58] 1213 started  action 0
+[1518-10-30  0:19] None started  action 1
+[1518-10-30  0:23] None started  action 2
+[1518-10-31  0: 3] 1213 started  action 0
+[1518-10-31  0:15] None started  action 1
+[1518-10-31  0:20] None started  action 2
+[1518-10-31  0:42] None started  action 1
+[1518-10-31  0:57] None started  action 2
+[1518-11- 1  0: 4] 2707 started  action 0
+[1518-11- 1  0:21] None started  action 1
+[1518-11- 1  0:37] None started  action 2
+[1518-11- 2  0: 3] 2251 started  action 0
+[1518-11- 2  0:15] None started  action 1
+[1518-11- 2  0:51] None started  action 2
+[1518-11- 2  0:56] None started  action 1
+[1518-11- 2  0:57] None started  action 2
+[1518-11- 3  0: 4] 2971 started  action 0
+[1518-11- 3  0:10] None started  action 1
+[1518-11- 3  0:45] None started  action 2
+[1518-11- 3  0:56] None started  action 1
+[1518-11- 3  0:59] None started  action 2
+[1518-11- 3 23:57] 2707 started  action 0
+[1518-11- 4  0:14] None started  action 1
+[1518-11- 4  0:51] None started  action 2
+[1518-11- 5  0: 3] 1637 started  action 0
+[1518-11- 5  0:13] None started  action 1
+[1518-11- 5  0:49] None started  action 2
+[1518-11- 6  0: 1] 911 started  action 0
+[1518-11- 6  0:16] None started  action 1
+[1518-11- 6  0:34] None started  action 2
+[1518-11- 6  0:40] None started  action 1
+[1518-11- 6  0:58] None started  action 2
+[1518-11- 6 23:57] 887 started  action 0
+[1518-11- 7  0:23] None started  action 1
+[1518-11- 7  0:55] None started  action 2
+[1518-11- 8  0: 0] 1223 started  action 0
+[1518-11- 8  0:13] None started  action 1
+[1518-11- 8  0:16] None started  action 2
+[1518-11- 8  0:43] None started  action 1
+[1518-11- 8  0:44] None started  action 2
+[1518-11- 8 23:51] 1283 started  action 0
+[1518-11- 9  0: 0] None started  action 1
+[1518-11- 9  0:33] None started  action 2
+[1518-11- 9  0:36] None started  action 1
+[1518-11- 9  0:40] None started  action 2
+[1518-11- 9 23:59] 2707 started  action 0
+[1518-11-10  0: 9] None started  action 1
+[1518-11-10  0:19] None started  action 2
+[1518-11-10  0:34] None started  action 1
+[1518-11-10  0:54] None started  action 2
+[1518-11-11  0: 0] 1283 started  action 0
+[1518-11-11  0:25] None started  action 1
+[1518-11-11  0:43] None started  action 2
+[1518-11-11  0:52] None started  action 1
+[1518-11-11  0:56] None started  action 2
+[1518-11-11 23:57] 1283 started  action 0
+[1518-11-12  0:29] None started  action 1
+[1518-11-12  0:47] None started  action 2
+[1518-11-13  0: 0] 1733 started  action 0
+[1518-11-13  0:45] None started  action 1
+[1518-11-13  0:47] None started  action 2
+[1518-11-14  0: 1] 2753 started  action 0
+[1518-11-14  0:11] None started  action 1
+[1518-11-14  0:51] None started  action 2
+[1518-11-14 23:58] 859 started  action 0
+[1518-11-15  0:11] None started  action 1
+[1518-11-15  0:56] None started  action 2
+[1518-11-16  0: 4] 1439 started  action 0
+[1518-11-16  0: 6] None started  action 1
+[1518-11-16  0:36] None started  action 2
+[1518-11-16 23:58] 859 started  action 0
+[1518-11-17  0: 9] None started  action 1
+[1518-11-17  0:41] None started  action 2
+[1518-11-17  0:48] None started  action 1
+[1518-11-17  0:51] None started  action 2
+[1518-11-18  0: 0] 3323 started  action 0
+[1518-11-18  0:23] None started  action 1
+[1518-11-18  0:50] None started  action 2
+[1518-11-18  0:55] None started  action 1
+[1518-11-18  0:58] None started  action 2
+[1518-11-18 23:54] 1213 started  action 0
+[1518-11-19  0: 4] None started  action 1
+[1518-11-19  0:58] None started  action 2
+[1518-11-20  0: 0] 911 started  action 0
+[1518-11-20  0:37] None started  action 1
+[1518-11-20  0:57] None started  action 2
+[1518-11-20 23:59] 1439 started  action 0
+[1518-11-21  0:25] None started  action 1
+[1518-11-21  0:57] None started  action 2
+[1518-11-21 23:59] 3121 started  action 0
+[1518-11-22  0:49] None started  action 1
+[1518-11-22  0:51] None started  action 2
+[1518-11-23  0: 4] 1637 started  action 0
+[1518-11-23  0:22] None started  action 1
+[1518-11-23  0:57] None started  action 2
