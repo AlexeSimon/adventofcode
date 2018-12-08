@@ -1,7 +1,7 @@
 # adventofcode
 
 This repo contains my personnal answers to all of the problems proposed by [AdventOfCode](https://adventofcode.com/).
-Most of it is missing and will be pushed as I complete them. You can check the commits or the list below to know which has been completed. I also propose to viewers to use init.py to copy this repo hierarchy and get down to coding themselves.
+Most of it is missing and will be added as I complete them. You can check the commits or the list below to know which has been completed. I also propose to viewers to use init.py to copy this repo hierarchy and get down to coding themselves.
 
 ## Copying the template
 
@@ -64,7 +64,7 @@ Or set current directory to wanted solution folder:
 cd 2018/2
 python code.py
 ```
-Note that copying the whole repo doesn't make much sense at the moment, since it is mostly empty.
+Please do not rename the *code.py* nor the *input.txt* files, as both their names are hardcoded in the solutions.
 
 ## Advent of code problems solved
 * 2015
@@ -72,10 +72,9 @@ Note that copying the whole repo doesn't make much sense at the moment, since it
 * 2016
     * /
 * 2017
-    * Day 1 - 17
+    * Days 1 - 17
 * 2018
-    * Day 1
-    * Day 2
+    * Days 1 - 4
 
 ## Contributing
 Any constructive pull request directly correcting errors or improving the code is welcomed.
