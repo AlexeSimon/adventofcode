@@ -72,7 +72,7 @@ Note that copying the whole repo doesn't make much sense at the moment, since it
 * 2016
     * /
 * 2017
-    * Day 1 - 12
+    * Day 1 - 17
 * 2018
     * Day 1
     * Day 2
