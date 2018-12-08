@@ -2,10 +2,10 @@
 # Author = Alexe Simon
 # Date = December 2018
 
+import re
+
 with open((__file__.rstrip("code.py")+"input.txt"), 'r') as input_file:
     input = input_file.read()
-
-import re
 
 class Claim:
     def __init__(self, description):
