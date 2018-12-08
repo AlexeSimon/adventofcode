@@ -20,6 +20,7 @@ class Claim:
         
 fabric = [[0 for i in range(1000)] for i in range(1000)]
 claims = [Claim(line) for line in input.split("\n")]
+alone = list(range(1, len(claims)+1))
 
 for claim in claims:
     for i in range(claim.x1, claim.x2):
@@ -27,9 +28,13 @@ for claim in claims:
             if fabric[i][j] == 0:
                 fabric[i][j] = claim.id
             else:
-                claim.alone = False
+                if claim.alone:
+                    claim.alone = False
+                    alone.remove(claim.id)
                 if fabric[i][j] > 0 :
-                    claims[fabric[i][j]-1].alone = False
+                    if claims[fabric[i][j]-1].alone:
+                        claims[fabric[i][j]-1].alone = False
+                        alone.remove(claims[fabric[i][j]-1].id)
                     fabric[i][j] = -1
                 else:
                     fabric[i][j] -= 1
@@ -40,15 +45,10 @@ for i in range(1000):
         if fabric[i][j] < 0:
             over_claimed += 1
 
-for claim in claims:
-    if claim.alone:
-        good_claim = claim.id
-        break
-
 # If you want to see the fabric :
 # with open((__file__.rstrip("code.py")+"output.txt"), 'w+') as output_file:
     # for line in fabric:
         # output_file.write(str(line)+"\n")
 
 print("Part One : "+ str(over_claimed))
-print("Part Two : "+ str(good_claim))
+print("Part Two : "+ str(alone[0]))
