@@ -9,21 +9,21 @@ table = input.copy()
 i = 0
 n = 0
 while i < len(table):
-	table[i] += 1
-	i += table[i] - 1
-	n += 1
+    table[i] += 1
+    i += table[i] - 1
+    n += 1
 print("Part One : "+ str(n))
 
 table = input.copy()
 i = 0
 n = 0
 while i < len(table):
-	if table[i] >= 3:
-		table[i] -= 1
-		i += table[i] + 1
-	else:
-		table[i] += 1
-		i += table[i] - 1
-	n += 1
+    if table[i] >= 3:
+        table[i] -= 1
+        i += table[i] + 1
+    else:
+        table[i] += 1
+        i += table[i] - 1
+    n += 1
 
 print("Part Two : "+ str(n))

@@ -72,7 +72,7 @@ Note that copying the whole repo doesn't make much sense at the moment, since it
 * 2016
     * /
 * 2017
-    * Incoming. All done locally. Making the code beautiful before pushing it.
+    * Day 1 - 12
 * 2018
     * Day 1
     * Day 2
