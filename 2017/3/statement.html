@@ -16,3 +16,24 @@
 </ul>
 <p><em>How many steps</em> are required to carry the data from the square identified in your puzzle input all the way to the access port?</p>
 </article>
+<p>Your puzzle answer was <code>326</code>.</p><article class="day-desc"><h2 id="part2">--- Part Two ---</h2><p>As a stress test on the system, the programs here clear the grid and then store the value <code>1</code> in square <code>1</code>. Then, in the same allocation order as shown above, they store the sum of the values in all adjacent squares, including diagonals.</p>
+<p>So, the first few squares' values are chosen as follows:</p>
+<ul>
+<li>Square <code>1</code> starts with the value <code>1</code>.</li>
+<li>Square <code>2</code> has only one adjacent filled square (with value <code>1</code>), so it also stores <code>1</code>.</li>
+<li>Square <code>3</code> has both of the above squares as neighbors and stores the sum of their values, <code>2</code>.</li>
+<li>Square <code>4</code> has all three of the aforementioned squares as neighbors and stores the sum of their values, <code>4</code>.</li>
+<li>Square <code>5</code> only has the first and fourth squares as neighbors, so it gets the value <code>5</code>.</li>
+</ul>
+<p>Once a square is written, its value does not change. Therefore, the first few squares would receive the following values:</p>
+<pre><code>147  142  133  122   59
+304    5    4    2   57
+330   10    1    1   54
+351   11   23   25   26
+362  747  806---&gt;   ...
+</code></pre>
+<p>What is the <em>first value written</em> that is <em>larger</em> than your puzzle input?</p>
+</article>
+<p>Your puzzle answer was <code>363010</code>.</p><p class="day-success">Both parts of this puzzle are complete! They provide two gold stars: **</p>
+<p>At this point, you should <a href="/2017">return to your advent calendar</a> and try another puzzle.</p>
+<p>Your puzzle input was <code class="puzzle-input">361527</code>
