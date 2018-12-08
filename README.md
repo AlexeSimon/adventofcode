@@ -74,7 +74,7 @@ Please do not rename the *code.py* nor the *input.txt* files, as both their name
 * 2017
     * Days 1 - 17
 * 2018
-    * Days 1 - 4
+    * Days 1 - 5
 
 ## Contributing
 Any constructive pull request directly correcting errors or improving the code is welcomed.
